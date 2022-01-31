@@ -1,11 +1,15 @@
 {
-  "name": "starter-nodejs-gitlab",
   "version": "0.0.1",
+  "name": "starter-nodejs-gitlab",
+  "description": "Starter Repository for building a docker image for nodejs application with gitlab",
   "main": "index.js",
   "license": "Apache-2.0",
   "private":"true",
   "author": "benmeddah",
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "keywords": ["nodejs", "docker", "dockerfile", "node", "gitlab", "docker-image", "docker-registry", 
+    "gitlab-ci", "starter-template", "starter", "node-js", "apache2", "starter-project", 
+    "private-repository", "docker-build", "dockerignore", "benmeddah"]
 }
