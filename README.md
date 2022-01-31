@@ -1,0 +1,1 @@
+## Starter Repository for building a docker image for nodejs application with gitlab

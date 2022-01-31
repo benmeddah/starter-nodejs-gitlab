@@ -1,0 +1,11 @@
+{
+  "name": "starter-nodejs-gitlab",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "private":"true",
+  "author": "benmeddah",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
